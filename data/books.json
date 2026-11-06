@@ -1,0 +1,34 @@
+[
+    {
+        "id": "101",
+        "title": "Wings of Fire",
+        "author": "A.P.J. Abdul Kalam",
+        "isbn": "9788173711466",
+        "quantity": 5,
+        "available": 5
+    },
+    {
+        "id": "102",
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "isbn": "9780061122415",
+        "quantity": 4,
+        "available": 4
+    },
+    {
+        "id": "103",
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "isbn": "9780735211292",
+        "quantity": 3,
+        "available": 3
+    },
+    {
+        "id": "104",
+        "title": "Rich Dad Poor Dad",
+        "author": "Robert Kiyosaki",
+        "isbn": "9781612680194",
+        "quantity": 2,
+        "available": 2
+    }
+]
